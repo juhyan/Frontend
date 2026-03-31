@@ -64,3 +64,12 @@ button:hover {
 label {
     width: 90%;
 }
+footer {
+ background-color: blueviolet;
+}
+.footersome {
+    padding: 60px 40px 10px 40px;
+    color: #ddd;
+    font-size: 20px;
+    text-align: center;
+}
